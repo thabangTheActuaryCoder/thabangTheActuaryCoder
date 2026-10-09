@@ -14,6 +14,7 @@
 thabang@github
 ------------------------------------------
 OS ........... macOS · Linux
+Role ......... Senior Full-Stack AI Engineer @ 4S4
 Studied ...... MSc Mathematical Statistics · UFS (Distinction)
 PhD .......... Mathematical Statistics · Wits (in progress)
 IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
@@ -59,6 +60,15 @@ GitHub ....... thabangTheActuaryCoder
 ### 👋 About
 
 Quantitative and AI engineering professional with an **MSc in Mathematical Statistics (distinction)**, backed by training in Statistics & Data Science, Actuarial Science, and quantitative finance. I work across **statistical modelling, machine learning, quantitative finance, and data/AI engineering** — combining rigorous quantitative analysis with end-to-end engineering.
+
+### 💼 Experience
+
+- **Senior Full-Stack AI Engineer** — *4S4* · Jun 2026 – Present
+  <br/>Clients: Rheinmetall Denel Munition, Old Mutual Bank, Ooba, Deloitte
+- **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
+  <br/>Clients: Virgin Active (UK & SA), Expandly
+- **AI / Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
+- **Group Risk Intern (Actuarial)** — *Discovery Limited* · Jan 2021 – Dec 2022
 
 ### 🎓 Education
 
