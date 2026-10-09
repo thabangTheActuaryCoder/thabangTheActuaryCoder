@@ -100,7 +100,7 @@ Quantitative and AI engineering professional with an **MSc in Mathematical Stati
 
 ### 🏅 Certifications &amp; Recognition
 
-`CFA Level I (in progress)` · `ASSA exemptions A112 / A113` · `Moshal Scholarship` · `Dean's List — UFS` · `Best Aggregate, Actuarial Science`
+`CFA Level I (in progress)` · `ASSA exemptions A112 / A113` 
 
 ---
 
