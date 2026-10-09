@@ -16,7 +16,7 @@ thabang@github
 OS ........... macOS · Linux
 Host ......... University of the Witwatersrand (Wits)
 Kernel ....... PhD Mathematical Statistics
-IDE .......... VS Code · JupyterLab · RStudio
+IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
 
 Lang.Prog .... Python · R · C++ · SQL · LaTeX
 Lang.ML ...... PyTorch · Optuna · NumPy · pandas
