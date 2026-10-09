@@ -14,55 +14,83 @@
 thabang@github
 ------------------------------------------
 OS ........... macOS · Linux
-Host ......... University of the Witwatersrand (Wits)
-Kernel ....... PhD Mathematical Statistics
+Studied ...... MSc Mathematical Statistics · UFS (Distinction)
+PhD .......... Mathematical Statistics · Wits (in progress)
 IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
 
-Lang.Prog .... Python · R · C++ · SQL · LaTeX
-Lang.ML ...... PyTorch · Optuna · NumPy · pandas
-Cloud ........ AWS · Azure · Docker · Databricks
+Lang.Prog .... Python · R · SQL · C# · Java · VBA · MATLAB
+Lang.ML ...... TensorFlow · Keras · scikit-learn · PyTorch
+Data ......... PostgreSQL · Spark · Databricks · Snowflake · dbt
+Cloud ........ AWS · Azure · Docker · GitHub Actions
 Lang.Real .... English · Xitsonga
 
-Field ........ Quantitative Finance · Deep Learning
-
-Hobbies ...... F1 (Mercedes-AMG) · Chess · Running
+Focus ........ Quant Modelling · AI/Data Eng · Actuarial Risk
+Certs ........ CFA Level I (in progress) · ASSA A112/A113
 
 Contact
 Email ........ baloyibongani1@gmail.com
+LinkedIn ..... thabang-bongani-junior-baloyi
 GitHub ....... thabangTheActuaryCoder
 </pre>
 </td>
 </tr>
 </table>
 
-<h3 align="center">Thabang Baloyi — Actuary × Mathematical Statistician × ML Researcher</h3>
+<h3 align="center">Thabang Baloyi</h3>
+<p align="center"><b>Quantitative Modelling · Mathematical Statistics · AI &amp; Data Engineering</b></p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/thabang-bongani-junior-baloyi">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:baloyibongani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
   <a href="https://github.com/thabangTheActuaryCoder">
-    <img src="https://img.shields.io/github/followers/thabangTheActuaryCoder?label=Followers&style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logo=github" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/thabangTheActuaryCoder?label=Follow&style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logo=github" alt="followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=thabangTheActuaryCoder&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 ---
 
-### 🧠 What I'm working on
-- 🎓 **PhD in Mathematical Statistics**, University of the Witwatersrand (Wits)
-- 🔬 Research at the intersection of **quantitative finance** and **deep learning**
-- 📈 Building and benchmarking neural network models on calibrated financial market data
+### 👋 About
+
+Quantitative and AI engineering professional with an **MSc in Mathematical Statistics (distinction)**, backed by training in Statistics & Data Science, Actuarial Science, and quantitative finance. I work across **statistical modelling, machine learning, quantitative finance, and data/AI engineering** — combining rigorous quantitative analysis with end-to-end engineering.
+
+### 🎓 Education
+
+- **MSc Mathematical Statistics** — University of the Free State · *2026, Distinction (80%)*
+- **BSc Honours, Statistics & Data Science** (minor Actuarial Science) — University of Cape Town · *2025*
+- **BCom Management Studies** — University of Cape Town · *2022*
+- **BSc Actuarial Sciences** — University of the Free State · *2017*
+- **PhD Mathematical Statistics** — University of the Witwatersrand · *in progress*
 
 ### 🛠️ Toolbox
+
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=white)
 ![R](https://img.shields.io/badge/R-0a0a0a?style=flat-square&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-0a0a0a?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-0a0a0a?style=flat-square&logo=latex&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-0a0a0a?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0a0a0a?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-0a0a0a?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0a0a0a?style=flat-square&logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-0a0a0a?style=flat-square&logo=powerbi&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-0a0a0a?style=flat-square&logo=latex&logoColor=white)
+
+### 🏅 Certifications &amp; Recognition
+
+`CFA Level I (in progress)` · `ASSA exemptions A112 / A113` · `Moshal Scholarship` · `Dean's List — UFS` · `Best Aggregate, Actuarial Science`
 
 ---
 
