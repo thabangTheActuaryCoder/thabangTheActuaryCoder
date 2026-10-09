@@ -20,6 +20,7 @@ IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
 
 Lang.Prog .... Python · R · C++ · SQL · LaTeX
 Lang.ML ...... PyTorch · Optuna · NumPy · pandas
+Cloud ........ AWS · Azure · Docker · Databricks
 Lang.Real .... English · Xitsonga
 
 Field ........ Quantitative Finance · Deep Learning
@@ -57,6 +58,10 @@ GitHub ....... thabangTheActuaryCoder
 ![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0a0a0a?style=flat-square&logo=latex&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0a0a0a?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
 
 ---
