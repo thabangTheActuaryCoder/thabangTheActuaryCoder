@@ -23,9 +23,9 @@ Lang.ML ...... PyTorch · Optuna · NumPy · pandas
 Cloud ........ AWS · Azure · Docker · Databricks
 Lang.Real .... English · Xitsonga
 
-Field ........ Quantitative Finance · Deep Learning
+Field ........ Quantitative Finance · Deep Learning · Bayesian 
 
-Hobbies ...... F1 (Mercedes-AMG) · Chess · Running
+Hobbies ...... F1 (Ferrari) · Soccer · Running
 
 Contact
 Email ........ baloyibongani1@gmail.com
