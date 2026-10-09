@@ -24,8 +24,10 @@ Data ......... PostgreSQL · Spark · Databricks · Snowflake · dbt
 Cloud ........ AWS · Azure · Docker · GitHub Actions
 Lang.Real .... English · Xitsonga
 
-Focus ........ Quant Modelling · AI/Data Eng · Actuarial Risk
+Field ........ Quantitative Finance · Deep Learning · Bayesian
 Certs ........ CFA Level I (in progress) · ASSA A112/A113
+
+Hobbies ...... F1 (Ferrari) · Soccer · Running
 
 Contact
 Email ........ baloyibongani1@gmail.com
