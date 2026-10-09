@@ -1,36 +1,39 @@
 <!--
   GitHub profile README for @thabangTheActuaryCoder
-  The code block below is the "neofetch" hero — keep it inside the ``` fence
-  so GitHub renders it in a monospace font and the columns stay aligned.
+  Hero = colored ASCII portrait (portrait.png) + neofetch-style info panel.
+  Keep the info inside <pre> so the columns stay aligned on GitHub.
 -->
 
-```text
-+++++++++++++=========-=====================   thabang@github
-++++++++++++++==++=-==-++--====+===========+   ------------------------------------------
-+++++++++++++++#@%##%%@@@@#*+====+++++++++++   OS ........... macOS · Linux
-++++++++++++++#%#%@@@@@@@@@@@%%#++++++++++++   Host ......... University of the Witwatersrand (Wits)
-++++++++++++++%@@@@@%%%#%@@@@@@@%+++++++++++   Kernel ....... PhD Mathematical Statistics
-...:::=====++=#@@@@%%####%%%@@@@#+++++++****   IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
-      :-======+%%@%%%%%%%#%%%%@*+++*********
-+====-========+%%%%%%%#########++*%##*******   Lang.Prog .... Python · R · C++ · SQL · LaTeX
-*****++++++++++=*@%%@@######%=++++@%@#*****#   Lang.ML ...... PyTorch · Optuna · NumPy · pandas
-*******+++++++++*@@@@%#*#%@@%*+****###*****#   Cloud ........ AWS · Azure · Docker · Databricks
-+-:::-=++++===+++*@@@#++*#%%*+++********####   Lang.Real .... English · Xitsonga
-**+++-.-++++=-=+--@@@@%%%%%%=+++++++===+**##
-###++-:.====+***+:#@@@@@@%%%:==+===--:-*###%   Field ........ Quantitative Finance · Deep Learning
-###+:-:.    ..::..:+#@@@@%#-          =%#%%%
-=++-=-=+=.         .:-==+-:           -+*###   Hobbies ...... F1 (Mercedes-AMG) · Chess · Running
-=:..:::-..:.  ..-:.    ..     ::.     :-====
-:......  .::. .:-:-     ==    :-:     ..:==-   Contact
--::-==-:.::.:.:-::...  .:.   .:::.. .  :::**   Email ........ baloyibongani1@gmail.com
---=+*##-+*-..:-- ....          .:.:=:     :*   GitHub ....... thabangTheActuaryCoder
-++**##%*%+-. .-+:....          .:.=*-.  ...-
-***#%%%@@+-. .----::::.      .::-=*%#++==++*
-#*#@@@@@@=::  :.:--::..       .-=-+@@%%@@@%%
-*#%@@@@@@=::. -::--:-:........:-::*@@@*#@@%#
-*%@@@@@@#-:.:   .::--::::::::::...@@@@%=%@#+
-#@@@@@@@*--. .     ............. +@@@@#*#*++
-```
+<table border="0">
+<tr>
+<td valign="top" width="340">
+<img src="portrait.png" width="320" alt="Thabang Baloyi"/>
+</td>
+<td valign="top">
+<pre>
+thabang@github
+------------------------------------------
+OS ........... macOS · Linux
+Host ......... University of the Witwatersrand (Wits)
+Kernel ....... PhD Mathematical Statistics
+IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
+
+Lang.Prog .... Python · R · C++ · SQL · LaTeX
+Lang.ML ...... PyTorch · Optuna · NumPy · pandas
+Cloud ........ AWS · Azure · Docker · Databricks
+Lang.Real .... English · Xitsonga
+
+Field ........ Quantitative Finance · Deep Learning
+
+Hobbies ...... F1 (Mercedes-AMG) · Chess · Running
+
+Contact
+Email ........ baloyibongani1@gmail.com
+GitHub ....... thabangTheActuaryCoder
+</pre>
+</td>
+</tr>
+</table>
 
 <h3 align="center">Thabang Baloyi — Actuary × Mathematical Statistician × ML Researcher</h3>
 
