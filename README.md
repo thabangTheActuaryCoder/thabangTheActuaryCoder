@@ -64,7 +64,6 @@ Quantitative and AI engineering professional with an **MSc in Mathematical Stati
 ### 💼 Experience
 
 - **Senior Full-Stack AI Engineer** — *4S4* · Jun 2026 – Present
-  <br/>Clients: Rheinmetall Denel Munition, Old Mutual Bank, Ooba, Deloitte
 - **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
   <br/>Clients: Virgin Active (UK & SA), Expandly
 - **AI / Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
@@ -72,11 +71,10 @@ Quantitative and AI engineering professional with an **MSc in Mathematical Stati
 
 ### 🎓 Education
 
+- **PhD Mathematical Statistics** — University of the Witwatersrand · *in progress*
 - **MSc Mathematical Statistics** — University of the Free State · *2026, Distinction (80%)*
 - **BSc Honours, Statistics & Data Science** (minor Actuarial Science) — University of Cape Town · *2025*
 - **BCom Management Studies** — University of Cape Town · *2022*
-- **BSc Actuarial Sciences** — University of the Free State · *2017*
-- **PhD Mathematical Statistics** — University of the Witwatersrand · *in progress*
 
 ### 🛠️ Toolbox
 
