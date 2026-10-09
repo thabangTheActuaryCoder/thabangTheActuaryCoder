@@ -57,11 +57,11 @@ GitHub ....... thabangTheActuaryCoder
 
 ---
 
-### 👋 About
+### About
 
 Quantitative and AI engineering professional with an **MSc in Mathematical Statistics (distinction)**, backed by training in Statistics & Data Science, Actuarial Science, and quantitative finance. I work across **statistical modelling, machine learning, quantitative finance, and data/AI engineering** , combining rigorous quantitative analysis with end-to-end engineering.
 
-### 💼 Experience
+### Experience
 
 - **Senior Full-Stack AI Engineer** — *4S4* · Jun 2026 – Present
 - **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
@@ -69,14 +69,14 @@ Quantitative and AI engineering professional with an **MSc in Mathematical Stati
 - **AI / Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
 - **Group Risk Intern (Actuarial)** — *Discovery Limited* · Jan 2021 – Dec 2022
 
-### 🎓 Education
+### Education
 
 - **PhD Mathematical Statistics** — University of the Witwatersrand · *in progress*
 - **MSc Mathematical Statistics** — University of the Free State · *2026, Distinction (80%)*
 - **BSc Honours, Statistics & Data Science** (minor Actuarial Science) — University of Cape Town · *2025*
 - **BCom Management Studies** — University of Cape Town · *2022*
 
-### 🛠️ Toolbox
+### Toolbox
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-0a0a0a?style=flat-square&logo=r&logoColor=white)
@@ -98,7 +98,7 @@ Quantitative and AI engineering professional with an **MSc in Mathematical Stati
 ![Power BI](https://img.shields.io/badge/Power%20BI-0a0a0a?style=flat-square&logo=powerbi&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0a0a0a?style=flat-square&logo=latex&logoColor=white)
 
-### 🏅 Certifications &amp; Recognition
+### Certifications &amp; Recognition
 
 `CFA Level I (in progress)` · `ASSA exemptions A112 / A113` 
 
