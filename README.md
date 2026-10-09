@@ -59,7 +59,7 @@ GitHub ....... thabangTheActuaryCoder
 
 ### 👋 About
 
-Quantitative and AI engineering professional with an **MSc in Mathematical Statistics (distinction)**, backed by training in Statistics & Data Science, Actuarial Science, and quantitative finance. I work across **statistical modelling, machine learning, quantitative finance, and data/AI engineering** — combining rigorous quantitative analysis with end-to-end engineering.
+Quantitative and AI engineering professional with an **MSc in Mathematical Statistics (distinction)**, backed by training in Statistics & Data Science, Actuarial Science, and quantitative finance. I work across **statistical modelling, machine learning, quantitative finance, and data/AI engineering** , combining rigorous quantitative analysis with end-to-end engineering.
 
 ### 💼 Experience
 
