@@ -63,7 +63,8 @@ Quantitative and AI engineering professional with an MSc in Mathematical Statist
 
 ### Experience
 
-- **Senior Full-Stack AI Engineer** — *4S4* · Jun 2026 – Present
+- **Senior Data Scientist** - *Tsogo Sun* · Nov 2026 - Present
+- **Senior Full-Stack AI Engineer** — *4S4* · Jun 2026 – Oct 2026
 - **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
   <br/>Clients: Virgin Active (UK & SA), Expandly
 - **AI / Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
