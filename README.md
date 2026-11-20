@@ -64,9 +64,7 @@ Quantitative and AI engineering professional with an MSc in Mathematical Statist
 ### Experience
 
 - **Senior Full Stack AI Engineer** — *4S4* · Jun 2026 – Nov 2026
-  <br/>Clients: Rheinmetall Denel Munition, Old Mutual Bank, Ooba, Deloitte
 - **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
-  <br/>Clients: Virgin Active (UK & SA), Expandly
 - **AI Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
 - **Junior Data Scientist** — *Discovery Limited* · Jan 2022 – Dec 2022
 - **Data Analyst Intern** — *Discovery Limited* · Jan 2021 – Dec 2021
