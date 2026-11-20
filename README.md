@@ -63,7 +63,7 @@ Quantitative and AI engineering professional with an MSc in Mathematical Statist
 
 ### Experience
 
-- **Senior Full Stack AI Engineer** — *4S4* · Jun 2026 – Nov 2026
+- **Senior Full Stack AI Engineer** — *4S4* · Jun 2026 – Present
 - **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
 - **AI Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
 - **Junior Data Scientist** — *Discovery Limited* · Jan 2022 – Dec 2022
