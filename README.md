@@ -105,12 +105,12 @@ Quantitative and AI engineering professional with an MSc in Mathematical Statist
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thabangTheActuaryCoder&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=cccccc" alt="stats"/>
+  <img height="165" src="cards/stats.svg" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabangTheActuaryCoder&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thabangTheActuaryCoder&hide_border=true&theme=dark&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="streak"/>
+  <img src="cards/streak.svg" alt="streak"/>
 </p>
 
 <p align="center"><i>“All models are wrong, but some are useful.” — George Box</i></p>
