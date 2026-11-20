@@ -16,7 +16,7 @@ thabang@github
 OS ........... macOS · Linux
 Role ......... Senior Full-Stack AI Engineer @ 4S4
 Studied ...... MSc Mathematical Statistics · UFS (Distinction)
-PhD .......... Mathematical Statistics · Wits (in progress)
+PhD .......... Mathematical Statistics · UP (in progress)
 IDE .......... VS Code · JupyterLab · RStudio · AntigravityIDE
 
 Lang.Prog .... Python · R · SQL · C# · Java · VBA · MATLAB
@@ -71,7 +71,7 @@ Quantitative and AI engineering professional with an MSc in Mathematical Statist
 
 ### Education
 
-- **PhD Mathematical Statistics** — University of the Witwatersrand · *in progress*
+- **PhD Mathematical Statistics** — University of Pretoria · *in progress*
 - **MSc Mathematical Statistics** — University of the Free State · *2026, Distinction (80%)*
 - **BSc Honours, Statistics & Data Science** (minor Actuarial Science) — University of Cape Town · *2025*
 - **BCom Management Studies** — University of Cape Town · *2022*
