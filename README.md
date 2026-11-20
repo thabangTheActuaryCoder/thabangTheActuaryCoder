@@ -63,31 +63,13 @@ Quantitative and AI engineering professional with an MSc in Mathematical Statist
 
 ### Experience
 
-**Senior Full Stack AI Engineer** — *4S4, Cape Town* · Jun 2026 – Nov 2026
-<br/>Clients: Rheinmetall Denel Munition, Old Mutual Bank, Ooba, Deloitte
-- Led development of EAPP, an enterprise demand and production-planning platform: SAP-derived demand, stock and supply, multi-level BOM explosion, finite work-centre capacity, inventory optimisation and cross-plant scheduling
-- Built explainable optimisation workflows (priority allocation, critical-path analysis, Monte Carlo lead-time simulation, linear and lexicographic mixed-integer programming) to recommend feasible production, overtime, transfer and delivery plans
-- Implemented Tiffany, an embedded voice and text AI planning co-pilot with structured outputs, audit trails and human confirmation for governed actions
-- Built SAP S/4HANA-to-warehouse ETL pipelines and semantic layers, and agentic workflows with n8n, multi-agent systems and RAG
-
-**Artificial Intelligence Engineer** — *Full Stack, Cape Town* · Mar 2023 – May 2026
-<br/>Clients: Virgin Active (UK & SA), Expandly
-- Designed and built AI-driven, cloud-native applications on AWS and Azure, integrating LLM services, data workflows and Keras models into production
-- Developed backend systems, REST APIs and data services for RAG pipelines, embeddings, semantic search and recommendation workflows
-- Built data and ML workflows with Python, SQL, Spark, PostgreSQL/pgvector, Databricks, Azure OpenAI and Delta Lake, following medallion-architecture principles
-- Implemented CI/CD testing and deployment (Bitbucket Pipelines, GitHub Actions, Azure DevOps, pytest, SonarQube) and AI safety components: guardrails, risk-pattern detection and auditable decision workflows
-
-**AI Machine Learning Engineer Intern** — *Full Stack, Cape Town* · Jan 2023 – Mar 2023
-- Built and evaluated classification and regression models (Logistic Regression, Random Forests, XGBoost) with preprocessing and feature-engineering pipelines
-- Assisted with Azure OpenAI integrations and Flask REST API deployment on Azure App Service; reported model performance in matplotlib and Power BI
-
-**Junior Data Scientist** — *Discovery Limited, Cape Town* · Jan 2022 – Dec 2022
-- Developed, trained and evaluated machine learning models in Python and SQL on large-scale healthcare and operational data
-- Set up model monitoring for drift, performance degradation and pipeline integrity, and worked with clinical, actuarial and business stakeholders
-
-**Data Analyst Intern** — *Discovery Limited, Cape Town* · Jan 2021 – Dec 2021
-- Analysed large customer datasets with Excel and SQL to deliver insights for customer engagement strategies
-- Built automated dashboards and recurring reports on customer and health engagement metrics with Health Actuarial, BI and MI teams
+- **Senior Full Stack AI Engineer** — *4S4* · Jun 2026 – Nov 2026
+  <br/>Clients: Rheinmetall Denel Munition, Old Mutual Bank, Ooba, Deloitte
+- **Artificial Intelligence Engineer** — *Full Stack* · Mar 2023 – May 2026
+  <br/>Clients: Virgin Active (UK & SA), Expandly
+- **AI Machine Learning Engineer Intern** — *Full Stack* · Jan 2023 – Mar 2023
+- **Junior Data Scientist** — *Discovery Limited* · Jan 2022 – Dec 2022
+- **Data Analyst Intern** — *Discovery Limited* · Jan 2021 – Dec 2021
 
 ### Education
 
